@@ -1,7 +1,7 @@
 [submodule "deps/geometry-central"]
 	path = deps/geometry-central
-	url = git@github.com:nmwsharp/geometry-central.git
-	branch = int-tri-updates
+	url = git@github.com:benjones/geometry-central.git
+	branch = master
 [submodule "deps/polyscope"]
 	path = deps/polyscope
 	url = git@github.com:nmwsharp/polyscope.git
